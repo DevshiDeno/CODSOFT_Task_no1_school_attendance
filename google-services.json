@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660690088555",
+    "project_id": "codingsoft-9174d",
+    "storage_bucket": "codingsoft-9174d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660690088555:android:f0acfec5581ca59ed3f72e",
+        "android_client_info": {
+          "package_name": "com.example.school_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXh09uSN4uYGtpqOqJq0sOtIpOyv9YCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660690088555:android:edddc4716cb1cbfad3f72e",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXh09uSN4uYGtpqOqJq0sOtIpOyv9YCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
