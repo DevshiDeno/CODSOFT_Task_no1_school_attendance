@@ -16,32 +16,32 @@ class Subject {
   static final List<Subject> subjects = [
     Subject(
       datetimeRange: DateTimeRange(
-        start: DateTime(2023, 10, 9, 05, 20),
-        end: DateTime(2023, 10, 9, 07, 0),
+        start: DateTime(2023, 10, 10, 01, 20),
+        end: DateTime(2023, 10, 10, 05, 20),
       ),
       title: "Mathematics",
       icon: Icons.numbers,
     ),
     Subject(
       datetimeRange: DateTimeRange(
-        start: DateTime(2023, 10, 8, 02, 00),
-        end: DateTime(2023, 10, 8, 09, 30),
+        start: DateTime(2023, 10, 10, 00, 00),
+        end: DateTime(2023, 10, 10, 01, 30),
       ),
       title: "Physics",
       icon: Icons.numbers,
     ),
     Subject(
       datetimeRange: DateTimeRange(
-        start: DateTime(2023, 10, 8, 10, 00),
-        end: DateTime(2023, 10, 8,12, 30),
+        start: DateTime(2023, 10, 10, 10, 00),
+        end: DateTime(2023, 10, 10,12, 30),
       ),
       title: "Chemistry",
       icon: Icons.numbers,
     ),
     Subject(
       datetimeRange: DateTimeRange(
-        start: DateTime(2023, 10, 4, 14, 00),
-        end: DateTime(2023, 10, 4, 15, 30),
+        start: DateTime(2023, 10, 10, 14, 00),
+        end: DateTime(2023, 10, 10, 15, 30),
       ),
       title: "Biology",
       icon: Icons.numbers,

@@ -75,7 +75,7 @@ class _HomeState extends State<Home> {
           ),
           Container(
             width: we,
-            height: 300,
+            height: he*0.7,
             child: ListView.builder(
               itemCount: Subject.subjects.length,
               itemBuilder: (context, index) {
